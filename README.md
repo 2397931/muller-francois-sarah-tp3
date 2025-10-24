@@ -8,4 +8,4 @@ interactivité ludique
 # Creditation
 
 Cartes
-https://opengameart.org/content/keycredit-cards?
+https://opengameart.org/content/keycredit-cards
