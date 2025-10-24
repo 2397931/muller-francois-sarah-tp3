@@ -21,6 +21,7 @@ A. État, niveau et progression
 - cartes-clés
 - casier
 - salles
+- inventaire
 
 B. Programmation clés/portes
 
@@ -34,7 +35,7 @@ C. HUD
 
 2. Le joueur aura besoin les information de base donc comment bouger se battre et aussi dans quelle situation il se trouve(le vaisseau spacial à besoin de réparation).
 
-# Creditation
+# Créditation
 
 Cartes
 
